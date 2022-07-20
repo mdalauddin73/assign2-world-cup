@@ -343,4 +343,8 @@ Respnsive design and media queries
     button {
         height: 45px;
     }
+
+    .btnn {
+        display: none;
+    }
 }
